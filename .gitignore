@@ -1,2 +1,5 @@
 .vscode/
 *.json
+*.txt
+*.mecab
+.mecab-ipadic-neologd/
