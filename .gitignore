@@ -2,6 +2,6 @@
 *.json
 *.txt
 *.mecab
-./mecab-ipadic-neologd
-./cabocha-0.69
-./CRF++-0.58
+.mecab-ipadic-neologd/
+.cabocha-0.69/
+.CRF++-0.58/
